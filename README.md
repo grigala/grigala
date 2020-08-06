@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grigala&layout=compact"/>
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=grigala alt=grigala/> </p>
 
