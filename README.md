@@ -25,17 +25,23 @@ Here are some ideas to get you started:
 
  ---
  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=grigala&count_private=true&show_icons=true&theme=dark&line_height=27"/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grigala&layout=compact&theme=dark"/>
-</p>
+![](https://grigala-stats.vercel.app/api?username=grigala&count_private=true&show_icons=true&theme=dark&line_height=21) ![](https://grigala-stats.vercel.app/api/top-langs/?username=grigala&layout=compact&theme=dark)
+
+<!-- images are not the same line
+<p align = "center">
+    <img src="https://github-readme-stats.vercel.app/api?username=grigala&count_private=true&show_icons=true&theme=dark&line_height=33" width="48%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grigala&layout=compact&theme=dark" width="48%">
+</p> -->
 
 ---
+<details>
+<summary> More Stats: </summary>
+  
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
+
+---
+</details>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=grigala alt=grigala/> </p>
 
