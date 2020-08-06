@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 **📕 Latest dev.to posts [@grigala](https://grigala.github.io/blog/)**
 <!-- BLOG-POST-LIST:START -->
+- [COVID-19 Statistical Analysis - Summary](https://grigala.github.io/posts/2020/03/covid-19/)
+- [Testing Fonts](https://grigala.github.io/posts/2019/12/testing-fonts/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
