@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
  ---
  
-![](https://grigala-stats.vercel.app/api?username=grigala&count_private=true&show_icons=true&line_height=21&title_color=008800&icon_color=008800) ![](https://grigala-stats.vercel.app/api/top-langs/?username=grigala&layout=compact&title_color=008800)
+![](https://grigala-stats.vercel.app/api?username=grigala&count_private=true&show_icons=true&line_height=21&title_color=009930&icon_color=009930) ![](https://grigala-stats.vercel.app/api/top-langs/?username=grigala&layout=compact&title_color=009930)
 
 <!-- images are not the same line
 <p align = "center">
@@ -48,3 +48,5 @@ No Activity tracked this Week
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=grigala alt=grigala/> </p>
 
+<!-- an additional pinned repositiroes -->
+<!-- ![ReadMe Card](https://grigala-stats.vercel.app/api/pin/?username=grigala&repo=3DMMDepthFitting&title_color=008800) -->
