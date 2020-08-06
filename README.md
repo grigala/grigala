@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**📕 Latest dev.to posts [@grigala](https://grigala.github.io/blog/)**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+<p align="center">
+![George's github stats](https://github-readme-stats.vercel.app/api?username=grigala&count_private=true&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grigala&layout=compact)
+</p>
+
+
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=grigala alt=grigala/> </p>
+
