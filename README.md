@@ -15,17 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
+
 **📕 Latest dev.to posts [@grigala](https://grigala.github.io/blog/)**
 <!-- BLOG-POST-LIST:START -->
 - [COVID-19 Statistical Analysis - Summary](https://grigala.github.io/posts/2020/03/covid-19/)
 - [Testing Fonts](https://grigala.github.io/posts/2019/12/testing-fonts/)
 <!-- BLOG-POST-LIST:END -->
 
+ ---
+ 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=grigala&count_private=true&show_icons=true&theme=dark"/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grigala&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grigala&layout=compact&theme=dark"/>
 </p>
 
+---
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
