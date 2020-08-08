@@ -43,6 +43,7 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
+![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/grigala)
 ---
 </details>
 
