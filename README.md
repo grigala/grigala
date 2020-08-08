@@ -39,7 +39,11 @@ Here are some ideas to get you started:
   
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown     1 hr 19 mins    ███████████████░░░░░░░░░░   62.26 % 
+YAML         30 mins         ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
+Java         14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+TypeScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 <!--END_SECTION:waka-->
 
