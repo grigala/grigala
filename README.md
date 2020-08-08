@@ -51,7 +51,7 @@ XML          0 secs          ░░░░░░░░░░░░░░░░░
 ---
 </details>
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=grigala alt=grigala/> </p>
+<img src="https://komarev.com/ghpvc/?username=grigala&color=009930"/>
 
 <!-- an additional pinned repositiroes -->
 <!-- ![ReadMe Card](https://grigala-stats.vercel.app/api/pin/?username=grigala&repo=3DMMDepthFitting&title_color=008800) -->
