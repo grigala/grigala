@@ -39,11 +39,13 @@ Here are some ideas to get you started:
   
 <!--START_SECTION:waka-->
 ```text
-Markdown     1 hr 19 mins    ███████████████░░░░░░░░░░   62.26 % 
-YAML         30 mins         ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
-Java         14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-TypeScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Week: 01 August, 2020 - 08 August, 2020
+
+Markdown     1 hr 30 mins    █████████████░░░░░░░░░░░░   53.82 % 
+YAML         30 mins         ████░░░░░░░░░░░░░░░░░░░░░   18.27 % 
+Java         14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+HTML         14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+TypeScript   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
 ```
 <!--END_SECTION:waka-->
 
