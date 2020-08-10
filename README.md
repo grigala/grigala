@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   
 <!--START_SECTION:waka-->
 ```text
-Week: 01 August, 2020 - 08 August, 2020
+Week: 02 August, 2020 - 09 August, 2020
 
 Markdown     1 hr 30 mins    █████████████░░░░░░░░░░░░   53.82 % 
 YAML         30 mins         ████░░░░░░░░░░░░░░░░░░░░░   18.27 % 
