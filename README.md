@@ -38,15 +38,6 @@ Here are some ideas to get you started:
 <summary> More Stats: </summary>
   
 <!--START_SECTION:waka-->
-```text
-Week: 02 August, 2020 - 09 August, 2020
-
-Markdown     1 hr 30 mins    █████████████░░░░░░░░░░░░   53.82 % 
-YAML         30 mins         ████░░░░░░░░░░░░░░░░░░░░░   18.27 % 
-Java         14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-HTML         14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-TypeScript   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
-```
 <!--END_SECTION:waka-->
 
 ![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/grigala)
