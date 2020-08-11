@@ -1,16 +1,16 @@
-name: Waka Weekly Language Usage Summary
+# name: Waka Weekly Language Usage Summary
 
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: '0 9 * * *'
+# on:
+#   workflow_dispatch:
+#   schedule:
+#     - cron: '0 9 * * *'
 
-jobs:
-  update-readme:
-    name: Update WAKA weekly language usage
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
+# jobs:
+#   update-readme:
+#     name: Update WAKA weekly language usage
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: athul/waka-readme@master
+#         with:
+#           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+#           SHOW_TITLE: true
