@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-6.1%20million%20Lines%20of%20code-blue)
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Timezone: Europe/Zurich
@@ -65,7 +65,7 @@ Linux                    48 mins             ██░░░░░░░░░�
 
 ```
 
-**I mostly code in C++** 
+**I Mostly Code in C++** 
 
 ```text
 C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
