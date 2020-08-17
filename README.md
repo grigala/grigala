@@ -38,28 +38,28 @@ Here are some ideas to get you started:
 <summary> More Stats: </summary>
   
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-6.1%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.1%20million%20Lines%20of%20code-blue)
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: Europe/Zurich
+⌚︎ Time zone: Europe/Zurich
 
-💬 Languages: 
+💬 Programming Languages: 
 Java                     2 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   24.42% 
 Python                   1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   21.06% 
 Markdown                 1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.82% 
 TypeScript               48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.4% 
 Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.44%
 
-🔥 Editors: 
+🔥 Code Editors: 
 IntelliJ                 4 hrs 25 mins       █████████████░░░░░░░░░░░░   52.03% 
 WebStorm                 1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.66% 
 PyCharm                  1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.29% 
 VS Code                  55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.8% 
 Android Studio           16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
 
-💻 Operating Systems: 
+💻 Operating System: 
 Windows                  7 hrs 42 mins       ██████████████████████░░░   90.52% 
 Linux                    48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.48%
 
