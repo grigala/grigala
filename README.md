@@ -2,7 +2,7 @@
 
 <link href="https://fonts.googleapis.com/css?family=Arvo|Josefin+Sans|Lato|Lobster|Lobster+Two|Lora|Maven+Pro|Merriweather|Montserrat|Oxygen|Playfair+Display|Raleway|Raleway+Dots|Ubuntu&display=swap" rel="stylesheet">
 
-<p style="font-family: Lobster">
+<p style="font-family: Lobster;!important">
 I will eventually add some introduction text here... Until that the statistics will do the job. 
 </p>
 
