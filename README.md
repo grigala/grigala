@@ -1,19 +1,5 @@
 ### Hi there 👋
-```
- __          __  _                            _                           
- \ \        / / | |                          | |                          
-  \ \  /\  / /__| | ___ ___  _ __ ___   ___  | |_ ___    _ __ ___  _   _  
-   \ \/  \/ / _ \ |/ __/ _ \| '_ ` _ \ / _ \ | __/ _ \  | '_ ` _ \| | | | 
-    \  /\  /  __/ | (_| (_) | | | | | |  __/ | || (_) | | | | | | | |_| | 
-   _____ _/_\___|_|\___\____|_| |_| |_|\___|  \__\____ _|_| |_| __|\__, | 
-  / ____(_) | | |         | |                      / _(_) |    | |  __/ | 
- | |  __ _| |_| |__  _   _| |__    _ __  _ __ ___ | |_ _| | ___| | |___/  
- | | |_ | | __| '_ \| | | | '_ \  | '_ \| '__/ _ \|  _| | |/ _ \ |        
- | |__| | | |_| | | | |_| | |_) | | |_) | | | (_) | | | | |  __/_|        
-  \_____|_|\__|_| |_|\__,_|_.__/  | .__/|_|  \___/|_| |_|_|\___(_)        
-                                  | |                                     
-                                  |_|                                     
-``` 
+
 I will eventually add some introduction text here... Until that the statistics will do the job. 
 
 <!--
@@ -49,6 +35,10 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grigala&layout=compact&theme=dark" width="48%">
 </p> -->
 
+---
+### Last two weeks of language usage:
+
+![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/grigala)
 ---
 <details>
 <summary> More Stats: </summary>
