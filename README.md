@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ---
 ### Last two weeks of language usage:
 
-![My Code::Stats history graph](https://codestats-profile-readme.herokuapp.com/history-graph/grigala?max_languages=15)
+![My Code::Stats history graph](http://codestats.ddns.net/history-graph/grigala?max_languages=15)
 ---
 <details>
 <summary> More Stats: </summary>
