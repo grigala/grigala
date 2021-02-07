@@ -36,6 +36,15 @@ Here are some ideas to get you started:
 </p> -->
 
 ---
+
+### Last two weeks of language usage:
+
+![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/grigala?max_languages=15)  
+
+---
+<details>
+<summary> More Stats: </summary>
+
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
@@ -72,15 +81,6 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
----
-<details>
-<summary> More Stats: </summary>
-
-### Last two weeks of language usage:
-
-![My Code::Stats history graph](https://codestats-profile-readme.herokuapp.com/history-graph/grigala?max_languages=15)  
-
 ---
 </details>
 
