@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ### Last two weeks of language usage:
 
-![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/grigala?max_languages=15)  
+![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/grigala?max_languages=15&bg_color=111&text_color=aaa&grid_color=333)  
 
 ---
 <details>
