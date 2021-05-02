@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
  ---
  
-![](https://grigala-stats.vercel.app/api?username=grigala&count_private=true&show_icons=true&line_height=21&title_color=009930&icon_color=009930) ![](https://grigala-stats.vercel.app/api/top-langs/?username=grigala&layout=compact&title_color=009930)
+![](https://grigala-stats.vercel.app/api?username=grigala&count_private=true&show_icons=true&line_height=21&title_color=009930&icon_color=009930&theme=dark) ![](https://grigala-stats.vercel.app/api/top-langs/?username=grigala&layout=compact&title_color=009930&theme=dark)
 
 <!-- images are not the same line
 <p align = "center">
