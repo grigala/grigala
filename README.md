@@ -50,6 +50,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
+<a href="https://github.com/grigala">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=grigala&layout=compact&theme=dark">
+</a>
+
 ```text
 ⌚︎ Time Zone: Europe/Zurich
 
