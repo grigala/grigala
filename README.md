@@ -43,16 +43,12 @@ Here are some ideas to get you started:
 
 ![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/grigala?max_languages=15&bg_color=111&text_color=aaa&grid_color=333)  
 
----
-<details>
-<summary> More Stats: </summary>
 <a href="https://github.com/grigala">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=grigala&layout=compact&theme=dark">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=grigala&theme=dark">
+  <img width="53%" src="https://github-readme-stats.vercel.app/api/wakatime?username=grigala&layout=compact&theme=dark">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=grigala&theme=dark">
 </a>
 
 ---
-</details>
 
 <img src="https://komarev.com/ghpvc/?username=grigala&color=009930"/>
 
