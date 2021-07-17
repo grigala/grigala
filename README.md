@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
  ---
-<a href="https://github.com/grigala">
+<a href="#">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=grigala&count_private=true&show_icons=true&line_height=21&title_color=009930&hide_border=true&icon_color=009930&theme=light">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grigala&layout=compact&hide_border=true&title_color=009930&theme=light">
   <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=grigala&theme=vue&hide_border=true"> 
@@ -42,7 +42,8 @@ Here are some ideas to get you started:
 
 ### Last two weeks of language usage:
 
-![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/grigala?max_languages=15&bg_color=111&text_color=aaa&grid_color=333)  
+![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/grigala?max_languages=15)
+<!-- &bg_color=111&text_color=aaa&grid_color=333 -->
 
 <a href="https://github.com/grigala">
 <!--   <img width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=grigala&theme=dark"> -->
