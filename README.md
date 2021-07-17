@@ -26,11 +26,12 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
  ---
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=grigala&count_private=true&show_icons=true&line_height=21&title_color=009930&hide_border=true&icon_color=009930&theme=dark">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grigala&layout=compact&hide_border=true&title_color=009930&theme=dark">
-<img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=grigala&theme=dark&hide_border=true&dates=009930&ring=009930&currStreakNum=009930&currStreakLabel=009930" alt=""> 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=grigala&hide_border=true&layout=compact&theme=dark">
-
+<a href="https://github.com/grigala">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=grigala&count_private=true&show_icons=true&line_height=21&title_color=009930&hide_border=true&icon_color=009930&theme=dark">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grigala&layout=compact&hide_border=true&title_color=009930&theme=dark">
+  <img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=grigala&theme=dark&hide_border=true&dates=009930&ring=009930&currStreakNum=009930&currStreakLabel=009930" alt=""> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=grigala&hide_border=true&layout=compact&theme=dark">
+ </a>
 <!-- images are not the same line
 <p align = "center">
     <img src="https://github-readme-stats.vercel.app/api?username=grigala&count_private=true&show_icons=true&theme=dark&line_height=33" width="48%">
