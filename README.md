@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<img src="https://readme-typing-svg.herokuapp.com?color=009930&center=true&vCenter=true&width=854&lines=I+will+eventually+add+some+introduction+text+here...+;Until+that+the+statistics+will+do+the+job.+%F0%9F%A4%99">
+<img src="https://readme-typing-svg.herokuapp.com/?color=009930&center=true&vCenter=true&width=854&lines=Hi+there!+%F0%9F%91%8B+;I+will+eventually+add+some+introduction+text+here...+;Until+that+the+statistics+will+do+the+job.+%F0%9F%A4%99">
 
 <!--
 **grigala/grigala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
