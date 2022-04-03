@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 **📕 Latest blog posts [@grigala](https://grigala.github.io/blog/)**
 <!-- BLOG-POST-LIST:START -->
+- [WireGuard on TrueNAS SCALE](https://grigala.github.io/posts/2022/04/wireguard-on-truenas-scale)
 - [Testing Fonts](https://grigala.github.io/posts/2019/12/testing-fonts/)
 <!-- BLOG-POST-LIST:END -->
 
