@@ -25,26 +25,26 @@ Here are some ideas to get you started:
 
  ---
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=grigala&count_private=true&show_icons=true&line_height=21&title_color=009930&hide_border=true&icon_color=009930&theme=light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=grigala&count_private=true&show_icons=true&line_height=21&title_color=009930&hide_border=true&icon_color=009930&theme=dark" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=grigala&count_private=true&show_icons=true&line_height=21&title_color=009930&hide_border=true&icon_color=009930&theme=light" media="(prefers-color-scheme: light)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=grigala&count_private=true&show_icons=true&line_height=21&title_color=009930&hide_border=true&icon_color=009930&theme=dark" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" />
  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=grigala&count_private=true&show_icons=true&line_height=21&title_color=009930&hide_border=true&icon_color=009930">
 </picture>
 
 <picture>
- <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grigala&layout=compact&hide_border=true&title_color=009930&theme=light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
- <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grigala&layout=compact&hide_border=true&title_color=009930&theme=light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+ <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grigala&layout=compact&hide_border=true&title_color=009930&theme=light" media="(prefers-color-scheme: light)"/>
+ <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grigala&layout=compact&hide_border=true&title_color=009930&theme=dark" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"/>
  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grigala&layout=compact&hide_border=true&title_color=009930">
 </picture>
 
 <picture>
- <source srcset="http://github-readme-streak-stats.herokuapp.com?user=grigala&theme=vue&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
- <source srcset="http://github-readme-streak-stats.herokuapp.com?user=grigala&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)"/>
+ <source srcset="http://github-readme-streak-stats.herokuapp.com?user=grigala&theme=vue&hide_border=true" media="(prefers-color-scheme: light)"/>
+ <source srcset="http://github-readme-streak-stats.herokuapp.com?user=grigala&theme=dark&hide_border=true" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"/>
  <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=grigala&hide_border=true"> 
 </picture>
 
 <picture>
- <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=grigala&hide_border=true&layout=compact&theme=light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
- <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=grigala&hide_border=true&layout=compact&theme=dark" media="(prefers-color-scheme: dark)"/>
+ <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=grigala&hide_border=true&layout=compact&theme=light" media="(prefers-color-scheme: light)"/>
+ <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=grigala&hide_border=true&layout=compact&theme=dark" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"/>
  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=grigala&hide_border=true&layout=compact">
 </picture>
 
@@ -52,8 +52,8 @@ Here are some ideas to get you started:
 
 ### Last two weeks of language usage:
 <picture>
- <source srcset="https://codestats-readme.wegfan.cn/history-graph/grigala?max_languages=15" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
- <source srcset="https://codestats-readme.wegfan.cn/history-graph/grigala?max_languages=15&bg_color=111&text_color=aaa&grid_color=333" media="(prefers-color-scheme: dark)" />
+ <source srcset="https://codestats-readme.wegfan.cn/history-graph/grigala?max_languages=15" media="(prefers-color-scheme: light)"/>
+ <source srcset="https://codestats-readme.wegfan.cn/history-graph/grigala?max_languages=15&bg_color=111&text_color=aaa&grid_color=333" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" />
  <img src="https://codestats-readme.wegfan.cn/history-graph/grigala?max_languages=15">
 </picture>
 <!-- &bg_color=111&text_color=aaa&grid_color=333 -->
