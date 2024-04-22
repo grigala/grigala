@@ -65,6 +65,7 @@ Here are some ideas to get you started:
 ---
 
 <img src="https://komarev.com/ghpvc/?username=grigala&color=009930"/>
+<a rel="me" href="https://swiss.social/@george"></a> 
 
 <!-- an additional pinned repositiroes -->
 <!-- ![ReadMe Card](https://grigala-stats.vercel.app/api/pin/?username=grigala&repo=3DMMDepthFitting&title_color=008800) -->
